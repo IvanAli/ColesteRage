@@ -1,0 +1,6 @@
+// npc
+t NPC/npc_walk.png 4
+t NPC/npc_lower.png 5
+t NPC/npc_upper.png 5
+t NPC/npc_catch.png 4
+t NPC/npc_mourn.png 3

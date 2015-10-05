@@ -1,0 +1,10 @@
+// imagenes de la primera historia
+e Story/Story1/historia0.jpg
+e Story/Story1/historia1.jpg
+e Story/Story1/historia2.jpg
+e Story/Story1/historia3.jpg
+e Story/Story1/historia4.jpg
+
+e Story/dialogBox.png
+e Story/enterkey.png
+e Story/esckey.png

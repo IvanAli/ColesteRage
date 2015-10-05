@@ -1,0 +1,8 @@
+// sfx
+SFX/menu_mover.wav
+SFX/menu_back.wav
+SFX/menu_change.wav
+SFX/menu_ok.wav
+
+// instructions music
+Musica/instruccionesmusic.mp3

@@ -1,0 +1,5 @@
+// main background
+e TopScores/bgtopscores.png
+
+// names background
+e TopScores/namesbg.png

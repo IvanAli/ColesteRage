@@ -1,0 +1,13 @@
+// menu bg
+e Menu/menu_bg.jpg
+e Menu/bgMenu.png
+
+// menu logo
+e Menu/colesterage_logo.png
+
+// art
+e Menu/bodoque_left.png
+
+// options
+e Menu/menu_optionborder.png
+e Menu/menuhighlight.png

@@ -1,0 +1,98 @@
+// alimentos
+e Food/food_cerezas.png
+
+e Food/food_estrella.png
+
+e Food/food_fresa.png
+
+e Food/food_jitomate.png
+
+e Food/food_kiwi.png
+
+e Food/food_mandarina.png
+
+e Food/food_naranja.png
+
+e Food/food_papaya.png
+
+e Food/food_pina.png
+
+e Food/food_platano.png
+
+e Food/food_toronja.png
+
+e Food/food_baguette.png
+
+e Food/food_brocheta.png
+
+e Food/food_cafe.png
+
+e Food/food_chicharos.png
+
+e Food/food_filete.png
+
+e Food/food_huevo.png
+
+e Food/food_leche.png
+
+e Food/food_limonada.png
+
+e Food/food_maki.png
+
+e Food/food_manzana.png
+
+e Food/food_onigiri.png
+
+e Food/food_rollo.png
+
+e Food/food_sopa.png
+
+e Food/food_sushi.png
+
+e Food/food_burrito.png
+
+e Food/food_cereal.png
+
+e Food/food_cuernito.png
+
+e Food/food_dona.png
+
+e Food/food_doritos.png
+
+e Food/food_flan.png
+
+e Food/food_galleta.png
+
+e Food/food_hamburguesa.png
+
+e Food/food_hotcake.png
+
+e Food/food_hotdog.png
+
+e Food/food_lasagna.png
+
+e Food/food_muffin.png
+
+e Food/food_paleta.png
+
+e Food/food_palomitas.png
+
+e Food/food_pastel.png
+
+e Food/food_pizza.png
+
+e Food/food_pollo.png
+
+e Food/food_poptart.png
+
+e Food/food_spaghetti.png
+
+e Food/food_taco.png
+
+e Food/food_tarta.png
+
+e Food/food_waffle.png
+e Power/FREEZEPOWER.png
+e Power/DOUBLESCOREPOWER.png
+e Power/DOUBLESPEEDPOWER.png
+e Power/HALFSPEEDPOWER.png

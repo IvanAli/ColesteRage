@@ -1,0 +1,6 @@
+// imagenes de la primera historia
+e Story/Story3/historia0.jpg
+
+e Story/dialogBox.png
+e Story/enterkey.png
+e Story/esckey.png

@@ -1,0 +1,6 @@
+// Menu sfx
+SFX/menu_mover.wav
+SFX/menu_enter.wav
+
+// Menu background music
+Musica/menumusic.mp3

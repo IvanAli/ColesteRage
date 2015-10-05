@@ -1,0 +1,5 @@
+// story 3 music
+Musica/story3music.mp3
+
+// sfx
+SFX/story_next.wav

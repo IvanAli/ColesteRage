@@ -1,0 +1,4 @@
+// fondo(s)
+e Background/5_background.png
+e Background/5_parallax.png
+e Background/5_parallax2.png

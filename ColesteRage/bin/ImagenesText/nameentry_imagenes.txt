@@ -1,0 +1,12 @@
+// letter box
+e NameEntry/letterBox.png
+
+// background
+e NameEntry/background.jpg
+e NameEntry/foodpattern.png
+
+// textbox
+e NameEntry/textbox.png
+
+// see you next time
+e NameEntry/seeyou.png

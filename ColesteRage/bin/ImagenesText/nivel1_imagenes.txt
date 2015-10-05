@@ -1,0 +1,2 @@
+// fondo(s)
+e Background/1_background.png

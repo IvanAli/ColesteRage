@@ -1,0 +1,12 @@
+// player
+t Player/player_walk.png 4
+e Player/player_jump.png
+e Player/player_fall.png
+t Player/player_eatinghealthy.png 4
+t Player/player_eatingunhealthy.png 4
+t Player/player_eatingpower.png 4
+t Player/player_lower.png 5
+t Player/player_upper.png 5
+t Player/player_cleared.png 11
+t Player/player_caught.png 3
+t Player/player_dead.png 5

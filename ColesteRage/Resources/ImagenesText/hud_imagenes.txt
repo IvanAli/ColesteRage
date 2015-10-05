@@ -1,0 +1,12 @@
+// HUD
+e HUD/hud.png
+e HUD/indicador.png
+
+t HUD/corazon.png 6
+e HUD/scorebox.png
+e HUD/timebox.png
+
+// text for indicators
+e HUD/debilTxt.png
+e HUD/paroTxt.png
+e HUD/rageTxt.png

@@ -1,0 +1,3 @@
+// sfx
+SFX/menu_mover2.wav
+SFX/menu_ok.wav

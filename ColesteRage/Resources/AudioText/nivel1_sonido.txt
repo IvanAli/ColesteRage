@@ -1,0 +1,21 @@
+// music
+Musica/nivel1_bg.mp3
+Musica/levelclear.mp3
+Musica/levelfaildead.mp3
+Musica/levelfailcaught.mp3
+
+// sfx
+SFX/eatinghealthy.wav
+SFX/eatingunhealthy.wav
+SFX/powerup.wav
+SFX/increasescore.wav
+SFX/jump.wav
+SFX/timecounter.wav
+SFX/timeend.wav
+SFX/menu_skip.wav
+
+// alert
+SFX/redalert.wav
+
+// pumping heart
+SFX/heartbeat.wav

@@ -1,0 +1,17 @@
+// heart bgs
+e Background/heartattackbg.png
+e Background/heartsolo.png
+
+// warning bg
+e Background/warning.png
+
+// efectos visuales
+t Effects/numerosAzul.png 12
+t Effects/numerosRojo.png 12
+t Effects/explosion.png 5
+t Effects/explosionPower.png 5
+t Effects/explosionPower2.png 4
+t Effects/explosionHealthy.png 5
+t Effects/explosionUnhealthy.png 5
+e Effects/powerup.png
+t Effects/powerupeffect.png 27
